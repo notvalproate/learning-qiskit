@@ -3,7 +3,7 @@ A repo for learning basic Quantum Computing using IBM's Qiskit. This repo serves
 
 ## To Run A Script:
 **Prerequisites:**
-- Python ( > v3.8)
+- Python (v3.8^)
 
 ```
 python3 -m venv path/to/venv
